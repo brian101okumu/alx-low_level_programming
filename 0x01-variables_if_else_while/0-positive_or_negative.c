@@ -4,8 +4,9 @@
 
 /**
  * main - Determines if a variable n is positive,zero or  negative
- * Return : 0 to show success
-*/
+ * Return: Always 0 to show success
+ * 
+ */
 int main(void)
 {
 
