@@ -19,7 +19,6 @@ int main(int argc, char *argv[])
 		for (a = 1; a < argc; a++)
 		{
 			q = argv[a];
-			
 			for (y = 0; y < strlen(q); y++)
 			{
 				if (q[y] < 48 || q[y] > 57)
