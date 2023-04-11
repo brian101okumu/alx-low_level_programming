@@ -27,6 +27,6 @@ char *_strdup(char *str)
 	}
 
 	a[y] = '\0';
-	return a;
+	return (a);
 }
 
